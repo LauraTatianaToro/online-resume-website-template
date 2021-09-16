@@ -7,6 +7,6 @@ TOOLS USED: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?
 <b> <a href="https://lauratoro.art/demos/portfolio-template.html"> View Live Demo <a><b>
   
 A design I used for my first website ever. :)
-Pure JS, CSS and HTML.
+JS (jquery), CSS and HTML.
 
   <img src="onload_layout.PNG" alt="preview_onload"  width="600" height="300">
