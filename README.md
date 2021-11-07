@@ -31,5 +31,8 @@ This is a very simple website for beginners who are just starting out with HTML 
 #### Name Animation Tutorial
 <a href="https://alvaromontoro.com/blog/67836/recreating-the-ipad-commercial-animation-with-css">Recreating the iPad Commercial Animation with CSS</a>
 
+### Animated Arrows adapted from this tutorial:
+<a href="https://cssanimation.rocks/scroll-cue/">Create An Animated Scroll Cue</a>
+
 #### Animation Gradient Background
 <a href="https://www.gradient-animator.com/">CSS GRADIENT ANIMATOR by Ian Forrest</a>
